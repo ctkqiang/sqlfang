@@ -1,0 +1,7 @@
+*.beam
+*.swp
+*.swx
+*.swo
+*.log
+*.dump
+*.dump.old
